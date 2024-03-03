@@ -29,6 +29,8 @@ For example, run the command.
 
 , the whole console output is stored in "output.txt".
 
+Since the other datasets exceed the 25M size limit of the "Github" website, we only uploaded 1000 of the dataset as open source material.
+
 You can also be executed individually with the following command:
 
 `./share-OT-S r=1 pS=9000 pC=9002 Pdim=0 Pname=0 Psize=0 Pbran=3 & ./share-OT-S r=2 pS=9001 pC=9000 Pdim=0 Pname=0 Psize=0 Pbran=3  &./share-OT-S r=3 pS=9002 pC=9001 Pdim=0 Pname=0 Psize=0 Pbran=3`

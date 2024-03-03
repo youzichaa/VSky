@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libSCI-RtreeBlocks.a CMakeFiles/SCI-RtreeBlocks.dir/rt.cpp.o
+/usr/bin/ranlib ../../lib/libSCI-RtreeBlocks.a

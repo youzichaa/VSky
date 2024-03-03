@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp CMakeFiles/share-OT.dir/test_ring_share.cpp.o -o ../bin/share-OT  ../lib/libSCI-OT.a ../lib/libSCI-RtreeBlocks.a ../lib/libSCI-Math.a ../lib/libSCI-LinearOT.a ../lib/libSCI-BuildingBlocks.a /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so /usr/lib/x86_64-linux-gnu/libgmp.so 

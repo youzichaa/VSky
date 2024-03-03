@@ -1,0 +1,13 @@
+branch:9
+Actual Rect:53
+RectGen:1ms
+TreeGen:1ms
+AddPoint:0msPoint:10
+TreeQry:0ms
+Skyline:4
+0 0 1 0 0 0 1 1 0 
+0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 
+3277	6599	6660	
+5366	6444	7913	
+9001	4930	1057	
+5067	2603	2013	

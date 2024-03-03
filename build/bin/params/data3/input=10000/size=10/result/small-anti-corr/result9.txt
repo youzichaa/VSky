@@ -1,0 +1,15 @@
+branch:9
+Actual Rect:41
+RectGen:1ms
+TreeGen:0ms
+AddPoint:0msPoint:10
+TreeQry:0ms
+Skyline:6
+0 1 1 0 1 1 
+0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 
+6196	7732	464	
+6276	6137	1465	
+7364	7238	433	
+5557	436	8121	
+3561	5205	5625	
+8913	4022	1511	

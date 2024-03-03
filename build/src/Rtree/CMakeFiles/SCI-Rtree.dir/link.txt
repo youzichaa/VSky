@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libSCI-Rtree.a CMakeFiles/SCI-Rtree.dir/rtree.cpp.o
+/usr/bin/ranlib ../../lib/libSCI-Rtree.a
